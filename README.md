@@ -42,3 +42,5 @@ Hardware Evolution:
 Demand may grow for specialized, cost-effective chips tailored to efficient models, reshaping the semiconductor industry.
 
 Conclusion: DeepSeek exemplifies how constraints breed innovation. By prioritizing efficiency and openness, it challenges both AI incumbents and hardware providers. The future likely holds a decentralized AI ecosystem where foundational models are ubiquitous, and creativity in applications defines success—a paradigm that could democratize AI’s benefits globally.
+
+- Shubham 
